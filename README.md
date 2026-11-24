@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/tiny-chess-01)
-[![make.fun](https://make.fun/badge2.svg)](https://make.fun/bounty/tiny-chess-01)
-[![make.fun](https://make.fun/badge3.svg)](https://make.fun/bounty/tiny-chess-01)
+[![make.fun](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
+[![make.fun](https://make.fun/badge/tiny-chess-01/pabloojoji/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01)
+[![make.fun](https://make.fun/badge/tiny-chess-01/pabloojoji/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01)
 
 # Tiny Chess — Fresh General Engine
 Bounty: https://make.fun/bounty/tiny-chess-01
